@@ -12,7 +12,7 @@ void setup() {
 }
 
 void draw() {
-  background(6, 211, 38);
+  background(7,137,42);
   float coordenadaX = x2 - x1;
   float coordenadaY = y2 - y1;
   float distancia = sqrt(pow(coordenadaX, 2) + pow(coordenadaY, 2));
